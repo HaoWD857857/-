@@ -1,2 +1,6 @@
 qweqwe1
+<<<<<<< .merge_file_rO4LdN
 2222
+=======
+33333
+>>>>>>> .merge_file_HXkDyM
